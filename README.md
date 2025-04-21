@@ -1,17 +1,17 @@
-# 👋 Hey there, I'm Shri Kishan
+# 👋 Hey there, I'm Shri Kishan!
 
-🎓 I'm a 2nd-year Data Science student passionate about turning data into insights.  
-🔍 Aspiring **Data Analyst** | Exploring **ML** & **AI** | C++ & Python enthusiast  
-🧠 DSA Lover | Solving problems daily on LeetCode 🚀
+🎓 2nd-Year *Data Science* Student | 📊 Aspiring *Data Analyst*  
+💻 Passionate about *Turning Data into Insights* | 🚀 Problem Solver on *LeetCode*
 
 ---
 
-## 🚀 About Me
-- 📊 I’m working toward becoming a **Data Analyst**
-- 🤖 Currently diving deep into **Machine Learning** and **Artificial Intelligence**
-- 💻 I code in **Python** and **C++**
-- 🧩 Love solving **Data Structures & Algorithms** problems
-- 📚 Constantly learning and building small data projects
+## 🧠 Who Am I?
+
+- 📈 Currently building skills to become a *Data Analyst*
+- 🤖 Exploring the world of *Machine Learning* and *Artificial Intelligence*
+- 💻 Proficient in *Python* and *C++*
+- 🧩 Daily problem solver with a love for *Data Structures & Algorithms*
+- 🔬 Always learning and working on *hands-on data projects*
 
 ---
 
@@ -91,14 +91,14 @@
 Feel free to reach out to me on any of the platforms below! I'm always open to discussing data science, machine learning, or any exciting opportunities.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="60"/>
   </a>
 </p>
-
+  
 <p align="left">
-  <a href="mailto:punia21ashu@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60"/>
   </a>
 </p>
 
@@ -107,7 +107,8 @@ Feel free to reach out to me on any of the platforms below! I'm always open to d
 
 ---
 
-⭐️ Thanks for stopping by! I'm always open to collaboration and learning opportunities.
+⭐️ Thanks for visiting my profile! Let's learn and grow together 🚀 I'm always open to collaboration and learning opportunities.
+
 <!--
 # 👋 Hey there, I'm Shri Kishan!
 
@@ -187,6 +188,8 @@ Feel free to reach out to me! I'm always open to collaborating, discussing tech,
   <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="60"/>
   </a>
+  </p>
+  <p align="left">
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="60"/>
   </a>
