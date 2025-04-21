@@ -82,6 +82,8 @@
 
 ## 📫 Let's Connect!
 
+Feel free to reach out to me on any of the platforms below! I'm always open to discussing data science, machine learning, or any exciting opportunities.
+
 <p align="left">
   <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150"/>
@@ -90,6 +92,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="150"/>
   </a>
 </p>
+
 
 ---
 
