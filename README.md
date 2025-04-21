@@ -76,7 +76,8 @@
 
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
-- 👨‍💻 LeetCode: [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/shrikishan21)
+- 👨‍💻 LeetCode:
+- [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/shrikishan21)
 
 
 ---
