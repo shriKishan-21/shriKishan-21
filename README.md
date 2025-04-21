@@ -98,9 +98,10 @@ Feel free to reach out to me on any of the platforms below! I'm always open to d
 
 <p align="left">
   <a href="mailto:punia21ashu@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
