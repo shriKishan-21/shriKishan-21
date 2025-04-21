@@ -77,7 +77,7 @@
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
 - 👨‍💻 LeetCode:
-- [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/shrikishan21)
+  [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/shrikishan21)
 
 
 ---
@@ -86,13 +86,15 @@
 
 Feel free to reach out to me on any of the platforms below! I'm always open to discussing data science, machine learning, or any exciting opportunities.
 
+- 💼 [LinkedIn]
 <p align="left">
   <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="60"/>
   </a>
 </p>
+- 📬 [Email]
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:punia21ashu@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60"/>
   </a>
 </p>
