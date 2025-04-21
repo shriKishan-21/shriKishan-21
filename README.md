@@ -54,6 +54,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -77,13 +80,26 @@
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
 - 👨‍💻 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shrikishan21)
+  
+  <p align="left">
+    <a href="https://leetcode.com/shrikishan21" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" width="130" height="40"/>
+    </a>
+    <img src="https://img.shields.io/badge/DSA%20Lover-FF6F61?style=for-the-badge&logo=javascript&logoColor=white" alt="DSA Lover" width="130" height="40"/>
+  </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shri-kishan-00989431a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130" height="40"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="130" height="40"/>
+  </a>
+</p>
 
 ---
 
