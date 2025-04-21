@@ -79,13 +79,7 @@
 
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
-- 👨‍💻 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shrikishan21)
-
-  <p align="left">
-    <a href="https://leetcode.com/shrikishan21" target="_blank" rel="noreferrer">
-      <i class="fab fa-leetcode" style="font-size: 40px;"></i> LeetCode
-    </a>
-  </p>
+- 👨‍💻 LeetCode: [LeetCode](https://leetcode.com/shrikishan21)
 
 ---
 
