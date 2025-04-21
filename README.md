@@ -79,20 +79,14 @@
 
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
-- 👨‍💻 LeetCode: [LeetCode](https://leetcode.com/shrikishan21)
+- 👨‍💻 LeetCode: [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shrikishan21)
 
 ---
 
 ## 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
-    <i class="fab fa-linkedin" style="font-size: 40px;"></i> LinkedIn
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
-    <i class="fab fa-google" style="font-size: 40px;"></i> Gmail
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shri-kishan-00989431a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
