@@ -76,7 +76,12 @@
 
 ## 💡 LeetCode & DSA
 - 🧠 I enjoy solving **DSA problems** to sharpen my logic and problem-solving skills.
- [![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/shrikishan21)
+<p align="left">
+  <a href="https://leetcode.com/shrikishan21" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
+
 
 
 ---
@@ -94,11 +99,10 @@ Feel free to reach out to me on any of the platforms below! I'm always open to d
 
 - 📬 [Email]
 <p align="left">
-  <a href="mailto:punia21ashu@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60"/>
+  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
 
 
 
