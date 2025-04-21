@@ -1,4 +1,3 @@
-<!--
 # 👋 Hey there, I'm Shri Kishan
 
 🎓 I'm a 2nd-year Data Science student passionate about turning data into insights.  
@@ -72,7 +71,6 @@
 - 🧠 [ML Basics Notebook](https://github.com/shriKishan-21/ml-basics) – A beginner-friendly notebook exploring supervised ML.
 - 📊 [Data Analysis with Pandas](https://github.com/shriKishan-21/data-analysis-pandas) – Real-world datasets analyzed using Python & Pandas.
 -->
-<!--
 
 ---
 
@@ -110,8 +108,7 @@ Feel free to reach out to me on any of the platforms below! I'm always open to d
 ---
 
 ⭐️ Thanks for stopping by! I'm always open to collaboration and learning opportunities.
--->
-
+<!--
 # 👋 Hey there, I'm Shri Kishan!
 
 🎓 2nd-Year *Data Science* Student | 📊 Aspiring *Data Analyst*  
@@ -178,7 +175,7 @@ Feel free to reach out to me on any of the platforms below! I'm always open to d
 <!--
 - 🧠 [ML Basics Notebook](https://github.com/shriKishan-21/ml-basics) – A beginner-friendly notebook exploring supervised ML.
 - 📊 [Data Analysis with Pandas](https://github.com/shriKishan-21/data-analysis-pandas) – Real-world datasets analyzed using Python & Pandas.
--->
+
 
 ---
 
@@ -197,4 +194,4 @@ Feel free to reach out to me! I'm always open to collaborating, discussing tech,
 
 ---
 
-⭐ Thanks for visiting my profile! Let's learn and grow together 🚀
+⭐ Thanks for visiting my profile! Let's learn and grow together 🚀 -->
