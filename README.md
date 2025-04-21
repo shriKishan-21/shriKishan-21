@@ -90,16 +90,14 @@
 
 Feel free to reach out to me on any of the platforms below! I'm always open to discussing data science, machine learning, or any exciting opportunities.
 
-- 💼 [LinkedIn]
 <p align="left">
   <a href="https://www.linkedin.com/in/shri-kishan-00989431a" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
-- 📬 [Email]
 <p align="left">
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:punia21ashu@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
